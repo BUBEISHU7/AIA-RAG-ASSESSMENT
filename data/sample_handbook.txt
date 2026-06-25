@@ -1,0 +1,8 @@
+AIA GO Shanghai Employee Handbook 2026.
+[SECTION 1: Working Hours]
+The standard working hours are from 9:00 AM to 6:00 PM, Monday to Friday.
+所有员工应在 18:00 之前完成当日核心交付物的提交。
+
+[SECTION 2: Compliance & PII]
+Compliance is our top priority. Never share customer's personal identifiable information (PII) like phone numbers (e.g., 13800138000) or ID cards in public channels.
+违反合规要求的行为将面临内部通报。
